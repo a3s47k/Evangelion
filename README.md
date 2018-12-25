@@ -52,7 +52,6 @@ Evangelion is currently extended with the following plugins. Instructions on how
 | Github | [plugins/github/README.md][PlGh] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-| Hamburger | [jonsuh/hamburgers/blob/master/README.md] [Hamburger]
 
 
 
