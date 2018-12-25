@@ -1,0 +1,24 @@
+body
+
+	.home-form
+		figure
+			img
+				width: 100%
+			figcaption
+				+pad(1rem)
+		+media-breakpoint-up(lg)
+			figure
+				text-align: right
+				position: relative
+				width: 100%
+				img
+					width: 100%
+				figcaption
+					+pos(abs, 50% null null 0)
+					background: #fff
+					width: 50%
+					transform: translateY(-50%)
+					padding: 2rem 6rem 2rem 0
+					.icon
+						+pos(abs, 50%, 2rem null null)
+						transform: translateY(-50%)

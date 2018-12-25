@@ -1,0 +1,34 @@
+{
+	"config": {
+		"SEO": {
+			"AppName": "evangelion",
+			"mobile_color": "#000000",
+			"cfg_name": "evangelion 1.0",
+			"cfg_url": "demo-site.com",
+			"analytics": "UA-XXXXXXXXXXX-1",
+			"seo_lang": "en",
+			"seo_geo": "EN",
+			"seo_geo_latitude": "10.334387",
+			"seo_geo_longitude": "106.039058",
+			"cfg_description": "The original build source web project, a clone version of the first Adam.",
+			"cfg_keywords": "",
+			"cfg_author": "NaM",
+			"cfg_sitenameurl": "evangalion"
+		
+
+		},
+		"favicondist": "./favicon/",
+		"website": "@willarthur47",
+		"title": "Evangelion",
+		"author": {
+			"email": "willarthur47@gmail.com",
+			"name": "NaM",
+			"phone": "0706786847",
+			"link": "@willarthur47",
+			"coding": "Coding by NaM"
+		},
+		"license": "MIT",
+		"name": "Evangelion",
+		"version": "1.0"
+	}
+}
